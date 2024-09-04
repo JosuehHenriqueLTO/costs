@@ -1,0 +1,33 @@
+{
+  "projects": [
+    {
+      "id": "0463",
+      "name": "Chimbinha estava certo",
+      "budget": "46000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Development"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planning"
+    }
+  ]
+}
